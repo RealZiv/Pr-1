@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1665724379 source:d:\Учёба\ЛР3 5 задание\1.c
+	<conio.h>
+	<math.h>
+
+1665724824 source:d:\Учёба\ЛР3 5 задание\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
+1665724824 source:d:\Учёба\ЛР3 5 задание\f1.c
+	<stdio.h>
+	<conio.h>
+
